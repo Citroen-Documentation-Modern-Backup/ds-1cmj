@@ -1,0 +1,25 @@
+{
+ "ref": "B1BG01ARP0",
+ "refDisplay": "B1BG01ARP0",
+ "title": "Dépose - repose : ensemble moteur - Boîte de vitesses mécanique",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0017"
+  }
+ ]
+}

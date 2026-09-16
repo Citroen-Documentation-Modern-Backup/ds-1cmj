@@ -1,0 +1,18 @@
+{
+ "ref": "091006235520B",
+ "refDisplay": "0910 06 235520B",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13409",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "ref": "091001335101B",
+ "refDisplay": "0910 01 335101B",
+ "title": "FOURCHETTE AXES LEVIERS INTERNE BVM",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0017"
+  }
+ ]
+}

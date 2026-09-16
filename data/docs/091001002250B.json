@@ -1,0 +1,18 @@
+{
+ "ref": "091001002250B",
+ "refDisplay": "0910 01 002250B",
+ "title": "CACHE MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13202",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FBM",
+   "fctId": "FCT0049"
+  }
+ ]
+}

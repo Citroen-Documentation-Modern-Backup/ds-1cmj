@@ -1,0 +1,20 @@
+{
+ "ref": "B2CB0191P0",
+ "refDisplay": "B2CB0191P0",
+ "title": "Couples de serrage : boîte de vitesses mécanique type AINSIN MIDSIZE (AMS)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FBM",
+   "fctId": "FCT0017"
+  }
+ ]
+}

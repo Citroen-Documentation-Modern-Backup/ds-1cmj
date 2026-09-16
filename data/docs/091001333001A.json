@@ -1,0 +1,48 @@
+{
+ "ref": "091001333001A",
+ "refDisplay": "0910 01 333001A",
+ "title": "REFROIDISSEMENT D’HUILE",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FBM",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRV",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRU",
+   "fctId": "FCT0017"
+  }
+ ]
+}

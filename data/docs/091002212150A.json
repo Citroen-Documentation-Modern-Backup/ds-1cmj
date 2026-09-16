@@ -1,0 +1,18 @@
+{
+ "ref": "091002212150A",
+ "refDisplay": "0910 02 212150A",
+ "title": "BOUGIE - BOITIER PRECHAUFFAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
+   "fctId": "FCT0304"
+  }
+ ]
+}

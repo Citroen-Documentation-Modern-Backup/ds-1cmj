@@ -1,0 +1,18 @@
+{
+ "ref": "091005501210A",
+ "refDisplay": "0910 05 501210A",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS DATE 20111101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0308"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1JB014DP0",
+ "refDisplay": "B1JB014DP0",
+ "title": "Couples de serrage : ligne d’échappement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0011"
+  }
+ ]
+}

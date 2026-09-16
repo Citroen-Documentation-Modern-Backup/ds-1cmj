@@ -1,0 +1,23 @@
+{
+ "ref": "091004314523A",
+ "refDisplay": "0910 04 314523A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE À DROITE ET BVM5 4X4 OU CONDUITE À DROITE ET BVM5 4X2",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0016"
+  }
+ ]
+}

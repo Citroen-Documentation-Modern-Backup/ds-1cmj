@@ -1,0 +1,18 @@
+{
+ "ref": "091006236025B",
+ "refDisplay": "0910 06 236025B",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "TRANSMISSION CONTINUE 4X4 DEPUIS OPR 13115 JUSQU’A OPR 13408 OU BVA A VARIATEUR DEPUIS OPR 13115 JUSQU’A OPR 13408",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ref": "B1BB019ZP0",
+ "refDisplay": "B1BB019ZP0",
+ "title": "Couples de serrage : moteur type 4A92",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0049"
+  }
+ ]
+}

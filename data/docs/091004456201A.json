@@ -1,0 +1,18 @@
+{
+ "ref": "091004456201A",
+ "refDisplay": "0910 04 456201A",
+ "title": "AMPLIFICATEUR DE FREINAGE RACCORDS",
+ "nature": "",
+ "applicability": "CONDUITE À GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0044"
+  }
+ ]
+}

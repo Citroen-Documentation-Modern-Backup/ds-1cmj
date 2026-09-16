@@ -1,0 +1,18 @@
+{
+ "ref": "091001124301B",
+ "refDisplay": "0910 01 124301B",
+ "title": "SOUPAPES GUIDES CULBUTEURS",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13105",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0006"
+  }
+ ]
+}

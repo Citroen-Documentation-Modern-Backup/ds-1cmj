@@ -1,0 +1,23 @@
+{
+ "ref": "091004350501A",
+ "refDisplay": "0910 04 350501A",
+ "title": "TRANSMISSION LONGITUDINALE",
+ "nature": "",
+ "applicability": "4 ROUES MOTRICES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0022"
+  }
+ ]
+}

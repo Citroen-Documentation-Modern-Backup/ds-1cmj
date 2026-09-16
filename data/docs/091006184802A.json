@@ -1,0 +1,18 @@
+{
+ "ref": "091006184802A",
+ "refDisplay": "0910 06 184802A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "(CEI) CEI",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0011"
+  }
+ ]
+}

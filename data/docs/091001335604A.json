@@ -1,0 +1,23 @@
+{
+ "ref": "091001335604A",
+ "refDisplay": "0910 01 335604A",
+ "title": "COMMANDE VITESSES",
+ "nature": "",
+ "applicability": "BVM5 4X4 OU BVM5 4X2",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0018"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0018"
+  }
+ ]
+}

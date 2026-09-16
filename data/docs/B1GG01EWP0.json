@@ -1,0 +1,20 @@
+{
+ "ref": "B1GG01EWP0",
+ "refDisplay": "B1GG01EWP0",
+ "title": "Dépose - repose : radiateur de refroidissement moteur ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FBM",
+   "fctId": "FCT0009"
+  }
+ ]
+}

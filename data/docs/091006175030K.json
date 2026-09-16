@@ -1,0 +1,18 @@
+{
+ "ref": "091006175030K",
+ "refDisplay": "0910 06 175030K",
+ "title": "RESERVOIR CARBURANT JAUGE",
+ "nature": "",
+ "applicability": "4 ROUES MOTRICES DEPUIS DATE 20120401",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FBM",
+   "fctId": "FCT0010"
+  }
+ ]
+}

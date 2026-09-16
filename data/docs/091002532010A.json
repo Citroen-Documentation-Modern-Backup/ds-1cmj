@@ -1,0 +1,18 @@
+{
+ "ref": "091002532010A",
+ "refDisplay": "0910 02 532010A",
+ "title": "ALTERNATEUR ET FIXATIONS",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 13114",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0303"
+  }
+ ]
+}

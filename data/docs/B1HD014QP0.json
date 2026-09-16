@@ -1,0 +1,20 @@
+{
+ "ref": "B1HD014QP0",
+ "refDisplay": "B1HD014QP0",
+ "title": "Contrôle  : Circuit d’alimentation carburant basse pression",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0010"
+  }
+ ]
+}

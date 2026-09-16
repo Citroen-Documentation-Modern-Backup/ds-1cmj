@@ -1,0 +1,115 @@
+{
+ "ldp": "1CMJ",
+ "label": "C4 AIRCROSS",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DSU",
+     "lib": "S.U.V."
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FBM",
+     "lib": "1.6 HDI (DV6C)"
+    },
+    {
+     "val": "B0FRO",
+     "lib": "1.6 i MMC"
+    },
+    {
+     "val": "B0FRQ",
+     "lib": "1.8 HDI 150"
+    },
+    {
+     "val": "B0FRS",
+     "lib": "2.0 i MMC EURO2"
+    },
+    {
+     "val": "B0FRP",
+     "lib": "2.0 i MMC EURO4"
+    },
+    {
+     "val": "B0FRV",
+     "lib": "DIESEL 1,8L MMC 103KW"
+    },
+    {
+     "val": "B0FRU",
+     "lib": "INJECTION 2,0L MMC EURO5"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DSU&B0F=B0FBM",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FBM"
+   },
+   "label": "S.U.V. · 1.6 HDI (DV6C)"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRO",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRO"
+   },
+   "label": "S.U.V. · 1.6 i MMC"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRQ",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRQ"
+   },
+   "label": "S.U.V. · 1.8 HDI 150"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRS",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRS"
+   },
+   "label": "S.U.V. · 2.0 i MMC EURO2"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRP",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRP"
+   },
+   "label": "S.U.V. · 2.0 i MMC EURO4"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRV",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRV"
+   },
+   "label": "S.U.V. · DIESEL 1,8L MMC 103KW"
+  },
+  {
+   "key": "B0D=B0DSU&B0F=B0FRU",
+   "selections": {
+    "B0D": "B0DSU",
+    "B0F": "B0FRU"
+   },
+   "label": "S.U.V. · INJECTION 2,0L MMC EURO5"
+  }
+ ]
+}

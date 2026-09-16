@@ -1,0 +1,18 @@
+{
+ "ref": "091001335607A",
+ "refDisplay": "0910 01 335607A",
+ "title": "COMMANDE VITESSES",
+ "nature": "",
+ "applicability": "BVM 6 RAPPORTS TYPE STT 4X2 OU BVM6 4X4 OU BVM 6 RAPPORTS TYPE STT 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
+   "fctId": "FCT0018"
+  }
+ ]
+}

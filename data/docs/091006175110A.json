@@ -1,0 +1,18 @@
+{
+ "ref": "091006175110A",
+ "refDisplay": "0910 06 175110A",
+ "title": "TUBULURE REMPLISSAGE DE CARBURANT",
+ "nature": "",
+ "applicability": "2 ROUES MOTRICES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0010"
+  }
+ ]
+}

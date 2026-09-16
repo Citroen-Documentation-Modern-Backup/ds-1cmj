@@ -1,0 +1,18 @@
+{
+ "ref": "091006184810A",
+ "refDisplay": "0910 06 184810A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 13418",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0011"
+  }
+ ]
+}

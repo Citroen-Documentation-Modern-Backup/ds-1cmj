@@ -1,0 +1,18 @@
+{
+ "ref": "091006235920B",
+ "refDisplay": "0910 06 235920B",
+ "title": "VASE EXPANSION CANALISATION EAU",
+ "nature": "",
+ "applicability": " DEPUIS OPR 13115 JUSQU’A OPR 13408",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0009"
+  }
+ ]
+}

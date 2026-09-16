@@ -1,0 +1,23 @@
+{
+ "ref": "091004314503A",
+ "refDisplay": "0910 04 314503A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "CONDUITE À GAUCHE ET BVM5 4X2 OU CONDUITE À GAUCHE ET BVM5 4X4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0016"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "ref": "C5HG01BSP0",
+ "refDisplay": "C5HG01BSP0",
+ "title": "Dépose - repose : conduits de réfrigération",
+ "nature": "Dépose-pose",
+ "applicability": "REFRIGERATION SIMPLE OU REFRIGERATION AUTOMATIQUE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0347"
+  }
+ ]
+}

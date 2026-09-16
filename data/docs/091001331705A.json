@@ -1,0 +1,18 @@
+{
+ "ref": "091001331705A",
+ "refDisplay": "0910 01 331705A",
+ "title": "CARTER BOITE TRANSFERT",
+ "nature": "",
+ "applicability": "4 ROUES MOTRICES",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0020"
+  }
+ ]
+}

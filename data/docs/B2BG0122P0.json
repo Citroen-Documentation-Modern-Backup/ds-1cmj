@@ -1,0 +1,20 @@
+{
+ "ref": "B2BG0122P0",
+ "refDisplay": "B2BG0122P0",
+ "title": "Dépose - repose : Butée d’embrayage",
+ "nature": "Dépose-pose",
+ "applicability": "BOITE DE VITESSE MANUELLE 5 RAPPORTS 4X2",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRO",
+   "fctId": "FCT0016"
+  }
+ ]
+}

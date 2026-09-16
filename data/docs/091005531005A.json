@@ -1,0 +1,23 @@
+{
+ "ref": "091005531005A",
+ "refDisplay": "0910 05 531005A",
+ "title": "BATTERIE - CABLES",
+ "nature": "",
+ "applicability": " DEPUIS DATE 20120701",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FBM",
+   "fctId": "FCT0305"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
+   "fctId": "FCT0305"
+  }
+ ]
+}

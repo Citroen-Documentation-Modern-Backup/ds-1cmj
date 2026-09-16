@@ -1,0 +1,23 @@
+{
+ "ref": "091001334205A",
+ "refDisplay": "0910 01 334205A",
+ "title": "LIGNE PRIMAIRE BVM",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRS",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CMJ",
+   "variantKey": "B0D=B0DSU&B0F=B0FRP",
+   "fctId": "FCT0017"
+  }
+ ]
+}
