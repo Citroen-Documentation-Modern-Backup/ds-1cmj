@@ -1,18 +1,1 @@
-{
- "ref": "091001222060A",
- "refDisplay": "0910 01 222060A",
- "title": "POMPE A HUILE - CHAINE - CREPINE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0008"
-  }
- ]
-}
+{"ref":"091001222060A","refDisplay":"0910 01 222060A","title":"POMPE A HUILE - CHAINE - CREPINE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0008"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000224"},[]],["thesaurus",{"type":"10","code":"011827"},[]],["thesaurus",{"type":"10","code":"014271"},[]],["mpr",{"catal":"0910","grp":"17","grp2":"01","maj":"20111222","numfich":"222060A"},[["appl",{},["{(?1CMJ)(B0FRQ)}"]],["sti",{"ident":"1701"},[]],["img",{"numfich":"00093820","path":"/img/pr/20/0009/00093820.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000224","ref":"1607582280","refpg":"16 075 822 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"128, 297, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"011827","ref":"1607852380","refpg":"16 078 523 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"128, 245, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"014271","ref":"1607621580","refpg":"16 076 215 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"128, 357, 11","shape":"circle"},[]]]]]]]]]]}

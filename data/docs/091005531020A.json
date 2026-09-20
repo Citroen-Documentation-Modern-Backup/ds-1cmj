@@ -1,18 +1,1 @@
-{
- "ref": "091005531020A",
- "refDisplay": "0910 05 531020A",
- "title": "BATTERIE - CABLES",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FBM",
-   "fctId": "FCT0305"
-  }
- ]
-}
+{"ref":"091005531020A","refDisplay":"0910 05 531020A","title":"BATTERIE - CABLES","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FBM","fctId":"FCT0305"}],"kind":"pr","appl":"{(?1CMJ)(B0FBM)}","tree":["document",{},[["thesaurus",{"type":"10","code":"010961"},[]],["thesaurus",{"type":"10","code":"001854"},[]],["thesaurus",{"type":"10","code":"001851"},[]],["thesaurus",{"type":"10","code":"014323"},[]],["thesaurus",{"type":"10","code":"014279"},[]],["thesaurus",{"type":"10","code":"014278"},[]],["mpr",{"catal":"0910","grp":"486","grp2":"05","maj":"20120223","numfich":"531020A"},[["appl",{},["{(?1CMJ)(B0FBM)}"]],["sti",{"ident":"48601"},[]],["img",{"numfich":"00093838","path":"/img/pr/38/0009/00093838.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"010961","ref":"1608370380","refpg":"16 083 703 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"102, 168, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001854","ref":"00005642ZP","refpg":"5642 ZP"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"399, 278, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001851","ref":"1607670580","refpg":"16 076 705 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"227, 321, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"014323","ref":"1608749180","refpg":"16 087 491 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"170, 257, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"014279","ref":"00006822WK","refpg":"6822 WK"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 8"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"282, 199, 11","shape":"circle"},[]],["area",{"coords":"324, 235, 11","shape":"circle"},[]],["area",{"coords":"7, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"014278","ref":"00006823JQ","refpg":"6823 JQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"63, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"72"},[["pr",{"codesi":"014279","ref":"00006574H1","refpg":"6574 H1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"44, 6, 11","shape":"circle"},[]]]]]],["repere",{"rep":"73"},[["pr",{"codesi":"014278","ref":"00005638SA","refpg":"5638 SA"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"08"},[["area",{"coords":"101, 6, 11","shape":"circle"},[]]]]]]]]]]}

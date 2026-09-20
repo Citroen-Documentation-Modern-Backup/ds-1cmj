@@ -1,18 +1,1 @@
-{
- "ref": "091001331510A",
- "refDisplay": "0910 01 331510A",
- "title": "BOITE TRANSFERT",
- "nature": "",
- "applicability": "4 ROUES MOTRICES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0020"
-  }
- ]
-}
+{"ref":"091001331510A","refDisplay":"0910 01 331510A","title":"BOITE TRANSFERT","nature":"","applicability":"4 ROUES MOTRICES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0020"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)(DRA02)}","tree":["document",{},[["thesaurus",{"type":"10","code":"007227"},[]],["mpr",{"catal":"0910","grp":"111","grp2":"01","maj":"20120217","numfich":"331510A"},[["appl",{},["{(?1CMJ)(B0FRQ)(DRA02)}"]],["sti",{"ident":"11101"},[]],["img",{"numfich":"00090050","path":"/img/pr/50/0009/00090050.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"007227","ref":"1608526180","refpg":"16 085 261 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"252, 125, 11","shape":"circle"},[]]]]]]]]]]}

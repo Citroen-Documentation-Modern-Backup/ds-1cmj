@@ -1,18 +1,1 @@
-{
- "ref": "091004456315A",
- "refDisplay": "0910 04 456315A",
- "title": "POMPE A VIDE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0044"
-  }
- ]
-}
+{"ref":"091004456315A","refDisplay":"0910 04 456315A","title":"POMPE A VIDE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0044"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001502"},[]],["thesaurus",{"type":"10","code":"015439"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0910","grp":"234","grp2":"04","maj":"20130108","numfich":"456315A"},[["appl",{},["{(?1CMJ)(B0FRQ)}"]],["sti",{"ident":"23401"},[]],["img",{"numfich":"00093561","path":"/img/pr/61/0009/00093561.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001502","ref":"1608669880","refpg":"16 086 698 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)/($,,1,13114)/}"]]]]]],["pr",{"codesi":"001502","ref":"1609999780","refpg":"16 099 997 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)/($1,13115,1,13185)/}"]]]]]],["pr",{"codesi":"001502","ref":"1610488480","refpg":"16 104 884 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)/($1,13186,,)/}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"345, 160, 11","shape":"circle"},[]],["area",{"coords":"115, 75, 11","shape":"circle"},[]],["area",{"coords":"165, 142, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"015439","ref":"1608669780","refpg":"16 086 697 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"165, 142, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006815","ref":"1607595980","refpg":"16 075 959 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"320, 57, 11","shape":"circle"},[]]]]]]]]]]}

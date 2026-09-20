@@ -1,18 +1,1 @@
-{
- "ref": "091001114353A",
- "refDisplay": "0910 01 114353A",
- "title": "CARTER DE DISTRIBUTION BOUCHONS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0007"
-  }
- ]
-}
+{"ref":"091001114353A","refDisplay":"0910 01 114353A","title":"CARTER DE DISTRIBUTION BOUCHONS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0007"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000150"},[]],["thesaurus",{"type":"10","code":"000428"},[]],["thesaurus",{"type":"10","code":"000389"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"014278"},[]],["mpr",{"catal":"0910","grp":"14","grp2":"01","maj":"20121016","numfich":"114353A"},[["appl",{},["{(?1CMJ)(B0FRQ)}"]],["sti",{"ident":"1401"},[]],["img",{"numfich":"00093816","path":"/img/pr/16/0009/00093816.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000150","ref":"1607580380","refpg":"16 075 803 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)/($,,1,13114)/}"]]]]]],["pr",{"codesi":"000150","ref":"1609915580","refpg":"16 099 155 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)/($1,13115,,)/}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"193, 478, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000428","ref":"1607593180","refpg":"16 075 931 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"57, 370, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000389","ref":"1607852180","refpg":"16 078 521 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"404, 434, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"008006","ref":"00001803S2","refpg":"1803 S2"},[["pmont",{"coef":"14"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X20"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"68, 64, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"014278","ref":"00006823GR","refpg":"6823 GR"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X16"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"85, 315, 11","shape":"circle"},[]]]]]]]]]]}

@@ -1,18 +1,1 @@
-{
- "ref": "091001335120A",
- "refDisplay": "0910 01 335120A",
- "title": "FOURCHETTE AXES LEVIERS INTERNE BVM",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FBM",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"091001335120A","refDisplay":"0910 01 335120A","title":"FOURCHETTE AXES LEVIERS INTERNE BVM","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FBM","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMJ)(B0FBM)}","tree":["document",{},[["thesaurus",{"type":"10","code":"016689"},[]],["thesaurus",{"type":"10","code":"001266"},[]],["thesaurus",{"type":"10","code":"013116"},[]],["thesaurus",{"type":"10","code":"005749"},[]],["thesaurus",{"type":"10","code":"006066"},[]],["thesaurus",{"type":"10","code":"006101"},[]],["thesaurus",{"type":"10","code":"001562"},[]],["thesaurus",{"type":"10","code":"016919"},[]],["mpr",{"catal":"0910","grp":"83","grp2":"01","maj":"20120307","numfich":"335120A"},[["appl",{},["{(?1CMJ)(B0FBM)}"]],["sti",{"ident":"8301"},[]],["img",{"numfich":"00095330","path":"/img/pr/30/0009/00095330.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"016689","ref":"1609016480","refpg":"16 090 164 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"245, 415, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001266","ref":"1609016180","refpg":"16 090 161 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"272, 218, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"013116","ref":"1608975880","refpg":"16 089 758 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"208, 74, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"005749","ref":"1608976080","refpg":"16 089 760 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"298, 27, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"006066","ref":"1608976180","refpg":"16 089 761 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"257, 56, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"006101","ref":"0000220851","refpg":"2208 51"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"407, 296, 11","shape":"circle"},[]],["area",{"coords":"229, 361, 11","shape":"circle"},[]],["area",{"coords":"308, 129, 11","shape":"circle"},[]]]]]],["repere",{"rep":"07"},[["pr",{"codesi":"001562","ref":"1608976280","refpg":"16 089 762 80"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"257, 384, 11","shape":"circle"},[]],["area",{"coords":"332, 148, 11","shape":"circle"},[]],["area",{"coords":"404, 327, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"016919","ref":"0000253827","refpg":"2538 27"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"08"},[["area",{"coords":"404, 360, 11","shape":"circle"},[]],["area",{"coords":"287, 395, 11","shape":"circle"},[]],["area",{"coords":"366, 168, 11","shape":"circle"},[]]]]]]]]]]}

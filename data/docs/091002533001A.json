@@ -1,18 +1,1 @@
-{
- "ref": "091002533001A",
- "refDisplay": "0910 02 533001A",
- "title": "DEMARREUR FIXATIONS",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRO",
-   "fctId": "FCT0302"
-  }
- ]
-}
+{"ref":"091002533001A","refDisplay":"0910 02 533001A","title":"DEMARREUR FIXATIONS","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRO","fctId":"FCT0302"}],"kind":"pr","appl":"{(?1CMJ)(B0FRO)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001977"},[]],["thesaurus",{"type":"10","code":"004675"},[]],["mpr",{"catal":"0910","grp":"491","grp2":"02","maj":"20111220","numfich":"533001A"},[["appl",{},["{(?1CMJ)(B0FRO)}"]],["sti",{"ident":"49101"},[]],["img",{"numfich":"00093872","path":"/img/pr/72/0009/00093872.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001977","ref":"1607844780","refpg":"16 078 447 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)(B0G05)}"]]]]]],["pr",{"codesi":"001977","ref":"1607844980","refpg":"16 078 449 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)(B0G0J)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"376, 410, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"004675","ref":"0000648737","refpg":"6487 37"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"288, 460, 11","shape":"circle"},[]]]]]]]]]]}

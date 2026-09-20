@@ -1,18 +1,1 @@
-{
- "ref": "091002140040A",
- "refDisplay": "0910 02 140040A",
- "title": "INJECTEURS - FAISCEAU INJECTION",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRO",
-   "fctId": "FCT0010"
-  }
- ]
-}
+{"ref":"091002140040A","refDisplay":"0910 02 140040A","title":"INJECTEURS - FAISCEAU INJECTION","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRO","fctId":"FCT0010"}],"kind":"pr","appl":"{(?1CMJ)(B0FRO)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000715"},[]],["thesaurus",{"type":"10","code":"011684"},[]],["thesaurus",{"type":"10","code":"012472"},[]],["thesaurus",{"type":"10","code":"000180"},[]],["thesaurus",{"type":"10","code":"000444"},[]],["thesaurus",{"type":"10","code":"014271"},[]],["mpr",{"catal":"0910","grp":"35","grp2":"02","maj":"20120210","numfich":"140040A"},[["appl",{},["{(?1CMJ)(B0FRO)}"]],["sti",{"ident":"3501"},[]],["img",{"numfich":"00093924","path":"/img/pr/24/0009/00093924.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000715","ref":"1607607980","refpg":"16 076 079 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"180, 203, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"011684","ref":"1607590080","refpg":"16 075 900 80"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"50, 277, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"012472","ref":"1607850980","refpg":"16 078 509 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"319, 350, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000180","ref":"00001982G1","refpg":"1982 G1"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"117, 419, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000444","ref":"0000198179","refpg":"1981 79"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["SUP"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"154, 398, 11","shape":"circle"},[]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"000444","ref":"0000198187","refpg":"1981 87"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["INF"]]]]]],["interactivite",{"order":"06"},[["area",{"coords":"83, 438, 11","shape":"circle"},[]]]]]],["repere",{"rep":"08"},[["pr",{"codesi":"014271","ref":"1607621180","refpg":"16 076 211 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"07"},[["area",{"coords":"297, 132, 11","shape":"circle"},[]]]]]]]]]]}

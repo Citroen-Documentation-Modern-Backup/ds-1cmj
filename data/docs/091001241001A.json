@@ -1,18 +1,1 @@
-{
- "ref": "091001241001A",
- "refDisplay": "0910 01 241001A",
- "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
- "nature": "",
- "applicability": " JUSQU’A OPR 13408",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRO",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"091001241001A","refDisplay":"0910 01 241001A","title":"MOTOVENTILATEUR BUSE CONDUIT D’AIR","nature":"","applicability":" JUSQU’A OPR 13408","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRO","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CMJ)(B0FRO)/($,,1,13408)/}","tree":["document",{},[["thesaurus",{"type":"10","code":"000106"},[]],["thesaurus",{"type":"10","code":"000363"},[]],["thesaurus",{"type":"10","code":"000889"},[]],["thesaurus",{"type":"10","code":"005634"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["thesaurus",{"type":"10","code":"014279"},[]],["thesaurus",{"type":"13","code":"G"},[]],["thesaurus",{"type":"13","code":"D"},[]],["mpr",{"catal":"0910","grp":"36","grp2":"01","maj":"20130607","numfich":"241001A"},[["appl",{},["{(?1CMJ)(B0FRO)/($,,1,13408)/}"]],["sti",{"ident":"3601"},[]],["img",{"numfich":"00092751","path":"/img/pr/51/0009/00092751.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000106","ref":"1608174080","refpg":"16 081 740 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000363","cote":"G","ref":"1608174580","refpg":"16 081 745 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000363","cote":"D","ref":"00001253L8","refpg":"1253 L8"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000889","cote":"G","ref":"1608174680","refpg":"16 081 746 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"000889","cote":"D","ref":"1608175080","refpg":"16 081 750 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"06"},[["pr",{"codesi":"005634","ref":"1608175280","refpg":"16 081 752 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"008006","ref":"00001312C9","refpg":"1312 C9"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"11"},[["pr",{"codesi":"014279","ref":"00001312E0","refpg":"1312 E0"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"014279","ref":"00001312E1","refpg":"1312 E1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]]]]]]}

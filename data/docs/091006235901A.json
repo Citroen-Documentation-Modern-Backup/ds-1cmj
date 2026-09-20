@@ -1,18 +1,1 @@
-{
- "ref": "091006235901A",
- "refDisplay": "0910 06 235901A",
- "title": "VASE EXPANSION CANALISATION EAU",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRO",
-   "fctId": "FCT0009"
-  }
- ]
-}
+{"ref":"091006235901A","refDisplay":"0910 06 235901A","title":"VASE EXPANSION CANALISATION EAU","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRO","fctId":"FCT0009"}],"kind":"pr","appl":"{(?1CMJ)(B0FRO)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000045"},[]],["thesaurus",{"type":"10","code":"000084"},[]],["thesaurus",{"type":"10","code":"014622"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0910","grp":"23","grp2":"06","maj":"20110914","numfich":"235901A"},[["appl",{},["{(?1CMJ)(B0FRO)}"]],["sti",{"ident":"2301"},[]],["img",{"numfich":"00092754","path":"/img/pr/54/0009/00092754.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000045","ref":"00001323CN","refpg":"1323 CN"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"000084","ref":"00001306J2","refpg":"1306 J2"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"014622","ref":"00001323AQ","refpg":"1323 AQ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"00006434A7","refpg":"6434 A7"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]]]],["repere",{"rep":"71"},[["pr",{"codesi":"008006","ref":"00006431H0","refpg":"6431 H0"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["8X20"]]]]]]]]]]]]}

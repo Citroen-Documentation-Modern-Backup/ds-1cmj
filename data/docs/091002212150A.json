@@ -1,18 +1,1 @@
-{
- "ref": "091002212150A",
- "refDisplay": "0910 02 212150A",
- "title": "BOUGIE - BOITIER PRECHAUFFAGE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0304"
-  }
- ]
-}
+{"ref":"091002212150A","refDisplay":"0910 02 212150A","title":"BOUGIE - BOITIER PRECHAUFFAGE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0304"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)}","tree":["document",{},[["thesaurus",{"type":"10","code":"005382"},[]],["thesaurus",{"type":"10","code":"001849"},[]],["thesaurus",{"type":"10","code":"006771"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0910","grp":"482","grp2":"02","maj":"20130821","numfich":"212150A"},[["appl",{},["{(?1CMJ)(B0FRQ)}"]],["sti",{"ident":"48201"},[]],["img",{"numfich":"00093854","path":"/img/pr/54/0009/00093854.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"005382","ref":"1607849980","refpg":"16 078 499 80"},[["pmont",{"coef":"04"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"407, 212, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"001849","ref":"1607577280","refpg":"16 075 772 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"189, 100, 11","shape":"circle"},[]]]]]],["repere",{"rep":"10"},[["pr",{"codesi":"006771","ref":"1611327580","refpg":"16 113 275 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"395, 384, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"006815","ref":"00006822XH","refpg":"6822 XH"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["6X16"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"116, 40, 11","shape":"circle"},[]]]]]]]]]]}

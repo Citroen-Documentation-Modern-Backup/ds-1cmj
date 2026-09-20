@@ -1,18 +1,1 @@
-{
- "ref": "091001330001A",
- "refDisplay": "0910 01 330001A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "BVM5 4X2",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRO",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"091001330001A","refDisplay":"0910 01 330001A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"BVM5 4X2","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRO","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMJ)(B0FRO)(B0G05)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"0910","grp":"67","grp2":"01","maj":"20120703","numfich":"330001A"},[["appl",{},["{(?1CMJ)(B0FRO)(B0G05)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00093411","path":"/img/pr/11/0009/00093411.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"1608258280","refpg":"16 082 582 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"69, 180, 11","shape":"circle"},[]]]]]]]]]]}

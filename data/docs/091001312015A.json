@@ -1,18 +1,1 @@
-{
- "ref": "091001312015A",
- "refDisplay": "0910 01 312015A",
- "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0016"
-  }
- ]
-}
+{"ref":"091001312015A","refDisplay":"0910 01 312015A","title":"EMBRAYAGE - MECANISME - DISQUE - BUTEE","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0016"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000898"},[]],["thesaurus",{"type":"10","code":"014600"},[]],["thesaurus",{"type":"10","code":"006815"},[]],["mpr",{"catal":"0910","grp":"62","grp2":"01","maj":"20120216","numfich":"312015A"},[["appl",{},["{(?1CMJ)(B0FRQ)}"]],["sti",{"ident":"6201"},[]],["img",{"numfich":"00093426","path":"/img/pr/26/0009/00093426.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000898","ref":"1607852980","refpg":"16 078 529 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"320, 106, 11","shape":"circle"},[]],["area",{"coords":"188, 57, 11","shape":"circle"},[]],["area",{"coords":"70, 420, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"014600","ref":"1607678680","refpg":"16 076 786 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"324, 452, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"006815","ref":"1607597680","refpg":"16 075 976 80"},[["pmont",{"coef":"06"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"411, 155, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006815","ref":"1607597880","refpg":"16 075 978 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6 - LON 25"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"382, 247, 11","shape":"circle"},[]],["area",{"coords":"266, 406, 11","shape":"circle"},[]]]]]]]]]]}

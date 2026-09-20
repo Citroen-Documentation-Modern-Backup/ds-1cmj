@@ -1,18 +1,1 @@
-{
- "ref": "091001330040A",
- "refDisplay": "0910 01 330040A",
- "title": "BOITE DE VITESSES MECANIQUE",
- "nature": "",
- "applicability": "2 ROUES MOTRICES",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FRQ",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"091001330040A","refDisplay":"0910 01 330040A","title":"BOITE DE VITESSES MECANIQUE","nature":"","applicability":"2 ROUES MOTRICES","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FRQ","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMJ)(B0FRQ)(DRA01)}","tree":["document",{},[["thesaurus",{"type":"10","code":"009390"},[]],["mpr",{"catal":"0910","grp":"67","grp2":"01","maj":"20120703","numfich":"330040A"},[["appl",{},["{(?1CMJ)(B0FRQ)(DRA01)}"]],["sti",{"ident":"6701"},[]],["img",{"numfich":"00093420","path":"/img/pr/20/0009/00093420.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"009390","ref":"1608257680","refpg":"16 082 576 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"88, 148, 11","shape":"circle"},[]]]]]]]]]]}

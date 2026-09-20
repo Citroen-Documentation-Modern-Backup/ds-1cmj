@@ -1,18 +1,1 @@
-{
- "ref": "091001343015A",
- "refDisplay": "0910 01 343015A",
- "title": "DIFFERENTIEL BVM",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CMJ",
-   "variantKey": "B0D=B0DSU&B0F=B0FBM",
-   "fctId": "FCT0017"
-  }
- ]
-}
+{"ref":"091001343015A","refDisplay":"0910 01 343015A","title":"DIFFERENTIEL BVM","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CMJ","variantKey":"B0D=B0DSU&B0F=B0FBM","fctId":"FCT0017"}],"kind":"pr","appl":"{(?1CMJ)(B0FBM)}","tree":["document",{},[["thesaurus",{"type":"10","code":"001013"},[]],["thesaurus",{"type":"10","code":"001152"},[]],["thesaurus",{"type":"10","code":"001617"},[]],["thesaurus",{"type":"10","code":"006217"},[]],["thesaurus",{"type":"10","code":"014278"},[]],["mpr",{"catal":"0910","grp":"85","grp2":"01","maj":"20120305","numfich":"343015A"},[["appl",{},["{(?1CMJ)(B0FBM)}"]],["sti",{"ident":"8501"},[]],["img",{"numfich":"00095323","path":"/img/pr/23/0009/00095323.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"001013","ref":"1608972480","refpg":"16 089 724 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)(DRA02)}"]]]],["descomp",{},[["lib",{"langue":"01"},["4X4"]]]]]],["pr",{"codesi":"001013","ref":"1608971580","refpg":"16 089 715 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)(DRA01)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"149, 193, 11","shape":"circle"},[]]]]]],["repere",{"rep":"02"},[["pr",{"codesi":"001152","ref":"1608971480","refpg":"16 089 714 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"222, 130, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"001617","ref":"1608971380","refpg":"16 089 713 80"},[["pmont",{"coef":"02"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"42, 280, 11","shape":"circle"},[]],["area",{"coords":"312, 128, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"006217","ref":"1608965280","refpg":"16 089 652 80"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"363, 92, 11","shape":"circle"},[]]]]]],["repere",{"rep":"05"},[["pr",{"codesi":"014278","ref":"0000230475","refpg":"2304 75"},[["pmont",{"coef":"12"},[["appl",{},["{(?1CMJ)}"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"86, 228, 11","shape":"circle"},[]]]]]]]]]]}
